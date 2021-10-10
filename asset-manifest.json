@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/memory-card-game/static/css/main.8d1b1928.chunk.css",
+    "main.js": "/memory-card-game/static/js/main.ca098a66.chunk.js",
+    "main.js.map": "/memory-card-game/static/js/main.ca098a66.chunk.js.map",
+    "runtime-main.js": "/memory-card-game/static/js/runtime-main.57020724.js",
+    "runtime-main.js.map": "/memory-card-game/static/js/runtime-main.57020724.js.map",
+    "static/css/2.679831fc.chunk.css": "/memory-card-game/static/css/2.679831fc.chunk.css",
+    "static/js/2.f2f25b18.chunk.js": "/memory-card-game/static/js/2.f2f25b18.chunk.js",
+    "static/js/2.f2f25b18.chunk.js.map": "/memory-card-game/static/js/2.f2f25b18.chunk.js.map",
+    "index.html": "/memory-card-game/index.html",
+    "static/css/2.679831fc.chunk.css.map": "/memory-card-game/static/css/2.679831fc.chunk.css.map",
+    "static/css/main.8d1b1928.chunk.css.map": "/memory-card-game/static/css/main.8d1b1928.chunk.css.map",
+    "static/js/2.f2f25b18.chunk.js.LICENSE.txt": "/memory-card-game/static/js/2.f2f25b18.chunk.js.LICENSE.txt",
+    "static/media/birch-bolete.bae8966a.jpg": "/memory-card-game/static/media/birch-bolete.bae8966a.jpg",
+    "static/media/black-trumpet.b1059ab8.jpg": "/memory-card-game/static/media/black-trumpet.b1059ab8.jpg",
+    "static/media/blewit.06e36a02.jpg": "/memory-card-game/static/media/blewit.06e36a02.jpg",
+    "static/media/chanterelle.8866065c.jpg": "/memory-card-game/static/media/chanterelle.8866065c.jpg",
+    "static/media/chicken-of-the-woods.cd822051.jpg": "/memory-card-game/static/media/chicken-of-the-woods.cd822051.jpg",
+    "static/media/forestBackground.4208ef6a.jpg": "/memory-card-game/static/media/forestBackground.4208ef6a.jpg",
+    "static/media/lions-mane.12d929f7.jpg": "/memory-card-game/static/media/lions-mane.12d929f7.jpg",
+    "static/media/morel.59931655.jpg": "/memory-card-game/static/media/morel.59931655.jpg",
+    "static/media/porcini.102a0530.jpg": "/memory-card-game/static/media/porcini.102a0530.jpg",
+    "static/media/puffball.b0622da6.jpg": "/memory-card-game/static/media/puffball.b0622da6.jpg",
+    "static/media/reishi.31d19e12.jpg": "/memory-card-game/static/media/reishi.31d19e12.jpg",
+    "static/media/saffron-milk-cap.9537d865.jpg": "/memory-card-game/static/media/saffron-milk-cap.9537d865.jpg",
+    "static/media/shaggy-mane.0e3363c5.jpg": "/memory-card-game/static/media/shaggy-mane.0e3363c5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57020724.js",
+    "static/css/2.679831fc.chunk.css",
+    "static/js/2.f2f25b18.chunk.js",
+    "static/css/main.8d1b1928.chunk.css",
+    "static/js/main.ca098a66.chunk.js"
+  ]
+}
