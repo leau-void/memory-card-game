@@ -4,8 +4,8 @@ import styled from "styled-components";
 const StyledCard = styled.button`
   height: 45%;
   width: 15%;
-  border: 1px solid white;
   border-radius: 3px;
+  border: 0;
   color: white;
   background: rgba(0, 0, 0, 0.5);
   font-weight: 500;
