@@ -4,9 +4,9 @@
 
 [Link to Live Demo](https://leau-void.github.io/memory-card-game/)
 
-## About The Project
+## About The Game
 
-
+*The Mushroom Hunt* is a memory game, where you have to "collect" every species you encounter only once!
 
 ### Technologies
 
@@ -17,7 +17,8 @@
 
 ### Future developments
 
-- 
+- Better responsiveness
+- Additional "Level" system
 
 ## Contact
 
