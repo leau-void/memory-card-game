@@ -2,7 +2,7 @@
 
 ## A Memory Card Game
 
-[Link to Live Demo](https://leau-void.github.io/memory-card-game/)
+[Link to Live Game](https://leau-void.github.io/memory-card-game/)
 
 ## About The Game
 
