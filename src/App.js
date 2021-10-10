@@ -8,6 +8,9 @@ import forestBackground from "./assets/forestBackground.jpg";
 
 const StyledApp = styled.div`
   background: center / cover no-repeat url(${forestBackground});
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 `;
 
 function App() {

@@ -5,6 +5,8 @@ import styled from "styled-components";
 const StyledHeader = styled.header`
   display: flex;
   position: relative;
+  height: fit-content;
+  max-height: 20vh;
 `;
 
 const Icon = styled.img`
@@ -31,7 +33,7 @@ const SubTitle = styled.h3`
 const HeaderBackground = styled.div`
   height: 100%;
   width: 100%;
-  background-color: rgba(255, 255, 255, 0.3);
+  background-color: rgba(255, 255, 255, 0.5);
   position: absolute;
   top: 0;
   left: 0;

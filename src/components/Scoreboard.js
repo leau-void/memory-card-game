@@ -6,20 +6,35 @@ const StyledScoreboard = styled.div`
   z-index: 99;
   margin-left: auto;
   font-size: 1.5rem;
-  width: 25%;
+  min-width: 15%;
+  border: 2px solid black;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  margin: 1rem;
+  padding: 1rem;
+  gap: 1rem;
 `;
 
-const StyledScore = styled.div``;
+const StyledScore = styled.span`
+  color: #154a11;
+`;
 
-const StyledBestScore = styled.div``;
+const StyledBestScore = styled.span`
+  color: #131040;
+`;
 
 const Scoreboard = (props) => {
   const { score, bestScore } = props;
 
   return (
     <StyledScoreboard>
-      <StyledScore>Score: {score}</StyledScore>
-      <StyledBestScore>Best Score: {bestScore}</StyledBestScore>
+      <div>
+        Score: <StyledScore>{score}</StyledScore>
+      </div>
+      <div>
+        Best Score: <StyledBestScore>{bestScore}</StyledBestScore>
+      </div>
     </StyledScoreboard>
   );
 };

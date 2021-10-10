@@ -1,4 +1,5 @@
 import uniqid from "uniqid";
+import { images } from "../assets/mushrooms";
 
 const cardFactory = ({ name, imgSrc }) => ({
   id: uniqid(),
@@ -11,84 +12,84 @@ const cardData = [];
 cardData.push(
   cardFactory({
     name: "Morel",
-    imgSrc: null,
+    imgSrc: images.morel,
   })
 );
 
 cardData.push(
   cardFactory({
     name: "Chanterelle",
-    imgSrc: null,
+    imgSrc: images.chanterelle,
   })
 );
 
 cardData.push(
   cardFactory({
-    name: "King Bolete",
-    imgSrc: null,
+    name: "Porcini",
+    imgSrc: images.porcini,
   })
 );
 
 cardData.push(
   cardFactory({
     name: "Blewit",
-    imgSrc: null,
+    imgSrc: images.blewit,
   })
 );
 
 cardData.push(
   cardFactory({
     name: "Shaggy Mane",
-    imgSrc: null,
+    imgSrc: images.shaggyMane,
   })
 );
 
 cardData.push(
   cardFactory({
     name: "Black Trumpet",
-    imgSrc: null,
+    imgSrc: images.blackTrumpet,
   })
 );
 
 cardData.push(
   cardFactory({
     name: "Birch Bolete",
-    imgSrc: null,
+    imgSrc: images.birchBolette,
   })
 );
 
 cardData.push(
   cardFactory({
     name: "Lion's Mane",
-    imgSrc: null,
+    imgSrc: images.lionsMane,
   })
 );
 
 cardData.push(
   cardFactory({
     name: "Chicken of the Woods",
-    imgSrc: null,
+    imgSrc: images.chickenOfTheWoods,
   })
 );
 
 cardData.push(
   cardFactory({
     name: "Reishi",
-    imgSrc: null,
+    imgSrc: images.reishi,
   })
 );
 
 cardData.push(
   cardFactory({
     name: "Giant Puffball",
-    imgSrc: null,
+    imgSrc: images.puffball,
   })
 );
 
 cardData.push(
   cardFactory({
     name: "Saffron Milk Cap",
-    imgSrc: null,
+    imgSrc: images.saffronMilkCap,
   })
 );
 
